@@ -1,3 +1,9 @@
+#filestorage
+定制为适合国内使用的云存储xblock插件
+
+waiting...
+
+
 File Storage XBlock
 ===================
 
